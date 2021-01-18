@@ -1,0 +1,8 @@
+"listVCTitle" = "Classifieds";
+"detailVCTitle" = "Classified Details";
+"internetError" = "Please check your internet connection.";
+"otherError" = "Something went wrong.";
+"noClassifieds" = "No Classifieds found";
+"noDataError" = "Unable to fetch the data. Please try again";
+
+
